@@ -2,6 +2,11 @@ The code (attached in the zip file) is written for Tensorflow version 0.12. You 
 
 The code assumes that there is a "data" folder in the directory where you run it, with 3 subfolders... "train", "valid" and "test"... put your images and their corresponding transcriptions in the right folders...
 
+#################### Tips
+Before running normalize_padd.py coppy paste it in the current directory, 
+also make a 'data' folder in the current directory
+####################
+
 Run,
 $ python normalize_padd.py
 
