@@ -4,7 +4,8 @@ The code assumes that there is a "data" folder in the directory where you run it
 
 #################### Tips
 Before running normalize_padd.py coppy paste it in the current directory, 
-also make a 'data' folder in the current directory
+also make a 'data' folder in the current directory and this folder should have 'train', 'test' or 'valid' subfolders 
+=> you can create and normalize them one-by-one
 ####################
 
 Run,
